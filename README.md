@@ -1,2 +1,6 @@
-# guide_to_sutd_timetable
-Guide to using SUTD Timetable
+# sutdtimetable
+Instructions on SUTD timetable
+
+## I made this in orientation cus someone out there would like this... (and the chaos in week 1)
+
+Transferred my stuff here for better reference
