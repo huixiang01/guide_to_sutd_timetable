@@ -94,7 +94,7 @@ Open up a new tab and paste the subscription link on the new tab. This will down
 
 <details>
 <summary>Paste Link</summary>
-  <img src="assets/open-new_tab.jpg" alt="Paste Link">
+  <img src="assets/open-new_tab.JPG" alt="Paste Link">
 </details>
 
 
