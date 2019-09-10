@@ -4,7 +4,7 @@ Accurate as of this [commit](https://github.com/OpenSUTD/sutd-timetable/tree/6b1
 **Purpose.** After your courses have been confirmed, the school provides a timetable. It looks like this with a very disproportionate size.
 
 <details>
-<summary>A very disproprotionate timetable <b>(click me to expand the image)</b></summary>
+<summary>A very disproprotionate timetable <b>(I am a drop-down. Click me to expand the image)</b></summary>
   <img src="assets/photo_2019-09-04_19-47-04-8120831.jpg" alt="Disproprotionate Timetable">
 </details>
 
@@ -100,44 +100,42 @@ Open up a new tab and paste the subscription link on the new tab. This will down
 
 
 <h2>OutLook</h2>
-
 Open up your OutLook app and locate yourselves to calendar
 
 <details>
 <summary>Open up OutLook</summary>
-  <img src="assets/Go_to_Calendar.jpg" alt="Go_to_Calendar">
+  <img src="assets/Go_to_Calendar.JPG" alt="Go_to_Calendar">
 </details>
 
 Create a new calendar by right clicking the tabs under " My Calendar"
 
 <details>
 <summary>Creating Timetable</summary>
-  <img src="assets/newtimetable.jpg" alt="newtimetable">
+  <img src="assets/newtimetable.JPG" alt="newtimetable">
 </details>
 
 Drag your ics. file into the desired calendar
 
 <details>
 <summary>Drag ics. file</summary>
-  <img src="assets/dragging_calendar.jpg" alt="Paste subscription URL">
+  <img src="assets/dragging_calendar.JPG" alt="Paste subscription URL">
 </details>
 
 To update OutLook web, press "Send and Receive"
 
 <details>
 <summary>Send and Recieve</summary>
-  <img src="assets/send_and_receive.jpg" alt="Send and Recieve">
+  <img src="assets/send_and_receive.JPG" alt="Send and Recieve">
 </details>
 
 
 
 <h2> Google</h2>
-
 Create new calendar in calendar settings and import your ics. file into the desired calendar
 
 <details>
 <summary>Importing Calendar</summary>
-  <img src="assets/importing_calendar.jpg" alt="import_calendar">
+  <img src="assets/importing_calendar.JPG" alt="import_calendar">
 </details>
 
 
