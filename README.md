@@ -1,14 +1,14 @@
 # Guide to using SUTD timetable
 Accurate as of this [commit](https://github.com/OpenSUTD/sutd-timetable/tree/6b1ee446136b87f63494b18962f7fdd8029e2b6d)
 
-**Purpose.** After you courses has been confirmed, the school provides a timetable. It looks like this with very disproportionate size.
+**Purpose.** After your courses have been confirmed, the school provides a timetable. It looks like this with a very disproportionate size.
 
 <details>
-<summary>A very disproprotionate timetable</summary>
+<summary>A very disproprotionate timetable <b>(click me to expand the image)</b></summary>
   <img src="assets/photo_2019-09-04_19-47-04-8120831.jpg" alt="Disproprotionate Timetable">
 </details>
 
-The timetable provided is inaccurately embedded in the table. Porting the timetable to Google Calendars is troublesome, and you need to see how pack is your hectic schedule in SUTD.
+The timetable provided is inaccurately embedded in the table. Porting the timetable to Google Calendars is troublesome, and you need to see how packed is your hectic schedule in SUTD.
 
 There are two parts to using this app 
 
@@ -30,7 +30,7 @@ If your timetable has indeed not been uploaded, please go to the [upload page](h
 When you are logged in, you will be presented with a blank screen. 
 
 Then, go to the page with your [classes](https://sams.sutd.edu.sg/psc/CSPRD/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES.SSR_SSENRL_LIST.GBL) (which is the URL of the "Right Click and Save" button). 
-Right click, Save As, as a complete webpage.
+Right-click, Save As, as a complete webpage.
 
 <details>
 <summary>Save as a complete webpage</summary>
