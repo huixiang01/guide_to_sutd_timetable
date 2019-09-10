@@ -47,7 +47,9 @@ Then back at https://opensutd.org/sutd-timetable/#/upload go to the next tab and
 
 Your file will be present in the system once uploaded.
 
-## Downloading your timetable
+## Downloading your timetable(Subscription) 
+
+## -- ONLY FOR GOOGLE CALENDAR CURRENTLY
 
 Let's say you found all your courses. Copy the subscription URL.
 
@@ -77,3 +79,67 @@ Your calendar is now on Google Calendar.
   <img src="assets/image-20190910212317531.png" alt="Timetable on Google Calendar">
 </details>
 
+## Downloading your timetable(Downloading .ics file)  -- NOT RECOMMENDED
+
+This works for outlook and google too. If your professor changes your schedule, that would be bad as it is not updated live.
+
+Let's say you found all your courses. Copy the subscription URL.
+
+<details>
+<summary>Copy subscription URL</summary>
+  <img src="assets/image-20190910211856407.png" alt="All courses found">
+</details>
+
+Open up a new tab and paste the subscription link on the new tab. This will download .ics file
+
+<details>
+<summary>Paste Link</summary>
+  <img src="assets/open-new_tab.jpg" alt="Paste Link">
+</details>
+
+
+
+<h2>OutLook</h2>
+
+Open up your OutLook app and locate yourselves to calendar
+
+<details>
+<summary>Open up OutLook</summary>
+  <img src="assets/Go_to_Calendar.jpg" alt="Go_to_Calendar">
+</details>
+
+Create a new calendar by right clicking the tabs under " My Calendar"
+
+<details>
+<summary>Creating Timetable</summary>
+  <img src="assets/newtimetable.jpg" alt="newtimetable">
+</details>
+
+Drag your ics. file into the desired calendar
+
+<details>
+<summary>Drag ics. file</summary>
+  <img src="assets/dragging_calendar.jpg" alt="Paste subscription URL">
+</details>
+
+To update OutLook web, press "Send and Receive"
+
+<details>
+<summary>Send and Recieve</summary>
+  <img src="assets/send_and_receive.jpg" alt="Send and Recieve">
+</details>
+
+
+
+<h2> Google</h2>
+
+Create new calendar in calendar settings and import your ics. file into the desired calendar
+
+<details>
+<summary>Importing Calendar</summary>
+  <img src="assets/importing_calendar.jpg" alt="import_calendar">
+</details>
+
+
+
+After which, press on import. And your calendar is in google calendar!
